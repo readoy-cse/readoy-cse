@@ -58,10 +58,10 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
  
 [![Languages](https://skillicons.dev/icons?i=python,java,js,ts,c,cs)](https://skillicons.dev)
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,next,tailwind)](https://skillicons.dev)
-[![Design](https://skillicons.dev/icons?i=figma,ai,ps,canva)](https://skillicons.dev)
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase)](https://skillicons.dev)
-[![DevOps](https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github,ansible,terraform)](https://skillicons.dev)
-[![OS & Networking](https://skillicons.dev/icons?i=linux,ubuntu,mikrotik,cisco,gnometerminal)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=figma,ai,ps)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma,postman)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github,ansible,terraform,prometheus,grafana)](https://skillicons.dev)
+[![OS & Networking](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,powershell,)](https://skillicons.dev)
 [![Tools](https://skillicons.dev/icons?i=arduino,vscode,n8n)](https://skillicons.dev)
 
 
