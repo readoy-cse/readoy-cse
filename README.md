@@ -56,7 +56,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 ## 🛠️ Tools I'm Worked with  
 
-[![Skills](https://skillicons.dev/icons?i=python,java,js,ts,c,linux,ubuntu,debian,windows,powershell,csdocker,jenkins,githubactions,git,github,ansible,terraform,prometheus,grafana,express,mongodb,mysql,firebase,prisma,postman,nodejs,react,next,tailwind,html,css,figma,ai,ps,arduino,vscode,n8n)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cs,cpp,python,java,js,ts,linux,ubuntu,debian,windows,powershell,docker,jenkins,githubactions,git,github,ansible,terraform,prometheus,grafana,express,mongodb,mysql,firebase,prisma,postman,nodejs,react,next,tailwind,html,css,figma,ai,ps,arduino,vscode,n8n)](https://skillicons.dev)
 
 <!-- [![Languages](https://skillicons.dev/icons?i=python,java,js,ts,c,cs)](https://skillicons.dev)
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,next,tailwind)](https://skillicons.dev)
