@@ -21,7 +21,13 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td>
-
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+<img src="h[ttps://github-readme-stats.vercel.app/api?username=readoy-cse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" 
+     width="100%" 
+     height="100%"
+     style="display:block; margin:0; padding:0;" 
+     alt="stats graph" />
+     
 <img src="https://github-readme-stats.vercel.app/api?username=readoy-cse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" 
      width="100%" 
      height="100%"
