@@ -21,7 +21,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td>     
-<img src="https://github-readme-stats.vercel.app/api?username=readoy-cse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" 
+<img src="https://github-readme-sandy.vercel.app/api?username=readoy-cse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" 
      width="100%" 
      height="100%"
      style="display:block; margin:0; padding:0;" 
@@ -30,7 +30,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 </td>
 <td width="43%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=readoy-cse&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" 
+<img src="https://github-readme-sandy.vercel.app/api/top-langs?username=readoy-cse&locale=en&hide_title=false&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" 
      width="100%" 
      height="100%"
      style="display:block; margin:0; padding:0;" 
