@@ -55,7 +55,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 ## 🛠️ Tools I'm Worked with  
 
-[![Skills](https://skills.syvixor.com/icons?i=c,cs,cpp,python,java,js,ts,linux,ubuntu,debian,redhat,centos,windows,powershell,docker,kubernetes,jenkins,githubactions,git,github,ansible,terraform,prometheus,grafana,aws,azure,express,mongodb,mysql,firebase,prisma,postman,nodejs,react,next,tailwind,html,css,figma,ai,ps,arduino,vscode,n8n)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?i=c,cs,cpp,python,java,js,ts,linux,ubuntu,debian,redhat,centos,windows,powershell,docker,kubernetes,jenkins,githubactions,git,github,ansible,terraform,prometheus,grafana,aws,azure,express,mongodb,mysql,firebase,prisma,postman,nodejs,react,next,tailwind,html,css,figma,ai,ps,arduino,vscode,n8n)](https://skillicons.dev)
 
 
 <!-- [![Languages](https://skillicons.dev/icons?i=python,java,js,ts,c,cs)](https://skillicons.dev)
