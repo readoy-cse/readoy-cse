@@ -55,7 +55,7 @@ I love lerning and sharing knowledge, About Programing and Computer Science.
 
 ## 🛠️ Tools I'm Worked with  
 
-[![Skills](go-skill-icons.vercel.app/api/icons?i=c,cs,cpp,python,java,js,ts,linux,ubuntu,debian,centos,springshell,powershell,docker,kubernetes,jenkins,githubactions,gitlab,git,github,nginx,ansible,terraform,prometheus,grafana,aws,azure,proxmox,virtualbox,express,mongodb,mysql,firebase,prisma,postman,nodejs,react,next,tailwind,html,css,figma,ai,ps,arduino,vscode,n8n,windows,vim,nano)](https://skillicons.dev)
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cs,cpp,python,java,js,ts,linux,ubuntu,debian,centos,springshell,powershell,docker,kubernetes,jenkins,githubactions,gitlab,git,github,nginx,ansible,terraform,prometheus,grafana,aws,azure,proxmox,virtualbox,express,mongodb,mysql,firebase,prisma,postman,nodejs,react,next,tailwind,html,css,figma,ai,ps,arduino,vscode,n8n,windows,vim,nano)](https://skillicons.dev)
 
 
 <!-- [![Languages](https://skillicons.dev/icons?i=python,java,js,ts,c,cs)](https://skillicons.dev)
